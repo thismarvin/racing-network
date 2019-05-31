@@ -1,0 +1,52 @@
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 16.xnb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 19.xnb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\Player.xnb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\Sprites.xnb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\obj\Debug\Racing.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Racing Network\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Racing Network\Racing\obj\Debug\Racing.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Racing.exe
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\Racing.pdb
+C:\Users\Marvin\Desktop\Racing Network\Racing\obj\Debug\Racing.exe
+C:\Users\Marvin\Desktop\Racing Network\Racing\obj\Debug\Racing.pdb
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Racing Network\Racing\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 16.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 19.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\Player.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\Sprites.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Racing.exe
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\Racing.pdb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\obj\Debug\Racing.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\obj\Debug\Racing.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\obj\Debug\Racing.exe
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Git Projects\Racing Network\Code\Racing\obj\Debug\Racing.pdb

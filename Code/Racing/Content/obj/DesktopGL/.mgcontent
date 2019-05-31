@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Marvin/Desktop/Engine/Engine/Content/Assets/Sprites/ASCII 16.png</File>
+    <File>C:/Users/Marvin/Desktop/Engine/Engine/Content/Assets/Sprites/ASCII 19.png</File>
+    <File>C:/Users/Marvin/Desktop/Engine/Engine/Content/Assets/Sprites/ASCII 8.png</File>
+    <File>C:/Users/Marvin/Desktop/Engine/Engine/Content/Assets/Sprites/Player.png</File>
+    <File>C:/Users/Marvin/Desktop/Engine/Engine/Content/Assets/Sprites/Sprites.png</File>
+  </SourceFiles>
+</SourceFileCollection>
